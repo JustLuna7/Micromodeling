@@ -15,7 +15,9 @@ test below.
 | `C_archived_broyden_production/` | Broyden script archived as the production run (M=80, alpha_sw=0.60 defaults; SVF-attenuated shortwave). | No (median miss ~9.8 °C) |
 
 Key clue: stored core temperature lies between 36.29 and 36.55 °C in
-every row, which a free-core model (B, C) cannot produce.
+every row. B and C cannot produce that. The range fits a thermoregulated
+model (A) but doesn't prove one was used: a free-core model whose core
+barely moves from its 37 °C starting value can also stay inside it.
 
 ## Acceptance test
 
